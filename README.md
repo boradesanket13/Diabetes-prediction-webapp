@@ -1,4 +1,4 @@
-# Diabetes-prediction-webapp
+# Microsoft Azure Future Ready Talent Internship Project : Diabetes-prediction-webapp
 This is a Microsoft Azure web app. #diabetes_prediction_webapp The project uses a Kaggle database to let the user determine whether someone has diabetes by just inputting certain information such as BMI, glucose level, blood pressure, and so on.
 
 # Diabetes Prediction - Deployment
