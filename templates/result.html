@@ -24,10 +24,10 @@
 		<div class="results">
 			{% if prediction==1 %}
 				<h1>Prediction: <span class='danger'>Oops! You have DIABETES TAKE CARE!.</span></h1>
-				<img class="gif" src="{{ url_for('static', filename='diabetes.webp') }}" alt="Diabetes Image">
+				<img class="gif" src="{{ url_for('static', filename='Health Day.png') }}" alt="Diabetes Image">
 			{% elif prediction==0 %}
 				<h1>Prediction: <span class='safe'>Great! You DON'T have diabetes.</span></h1>
-				<img class="gif1" src="{{ url_for('static', filename='no-diabetes.webp') }}" alt="Not Diabetes Image">
+				<img class="gif1" src="{{ url_for('static', filename='vida-si-diabetes-no.png') }}" alt="Not Diabetes Image">
 			{% endif %}
 		</div>
 
