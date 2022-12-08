@@ -28,7 +28,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random
 
 # Creating Random Forest Model
 from sklearn.ensemble import RandomForestClassifier
-classifier = RandomForestClassifier(n_estimators=20)
+classifier = RandomForestClassifier(n_estimators=20, n_jobs = -1, max_leaf_nodes=1000)
 classifier.fit(X_train, y_train)
 
 # Creating a pickle file for the classifier
