@@ -4,40 +4,20 @@ Diabetes-prediction-webapp</a> 🚀</em></h1>
 
 <div align="center">
 
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp/"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp/"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/ashutoshkrris/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp/"><img src="https://img.shields.io/github/repo-size/boradesanket13/
-Diabetes-prediction-webapp.svg?label=Repo%20size&style=flat"></a>
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp/"><img src="https://img.shields.io/tokei/lines/github/boradesanket13/
-Diabetes-prediction-webapp?color=yellow&label=Lines%20of%20Code"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp/"><img src="https://img.shields.io/github/repo-size/boradesanket13/Diabetes-prediction-webapp.svg?label=Repo%20size&style=flat"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp/"><img src="https://img.shields.io/tokei/lines/github/boradesanket13/Diabetes-prediction-webapp?color=yellow&label=Lines%20of%20Code"></a>
   
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp//graphs/contributors"><img src="https://img.shields.io/github/contributors/boradesanket13/
-Diabetes-prediction-webapp?color=brightgreen"></a>
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp//stargazers"><img src="https://img.shields.io/github/stars/boradesanket13/
-Diabetes-prediction-webapp?color=0059b3"></a>
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp//network/members"><img src="https://img.shields.io/github/forks/boradesanket13/
-Diabetes-prediction-webapp?color=yellow"></a>
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp//issues"><img src="https://img.shields.io/github/issues/boradesanket13/
-Diabetes-prediction-webapp?color=brightgreen"></a>
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp//issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/boradesanket13/
-Diabetes-prediction-webapp?color=0059b3"></a>
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp//pulls"><img src="https://img.shields.io/github/issues-pr/boradesanket13/
-Diabetes-prediction-webapp?color=yellow"></a>
-<a href="https://github.com/boradesanket13/
-Diabetes-prediction-webapp//pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/boradesanket13/
-Diabetes-prediction-webapp?color=brightgreen"></a> 
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp//graphs/contributors"><img src="https://img.shields.io/github/contributors/boradesanket13/Diabetes-prediction-webapp?color=brightgreen"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp//stargazers"><img src="https://img.shields.io/github/stars/boradesanket13/Diabetes-prediction-webapp?color=0059b3"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp//network/members"><img src="https://img.shields.io/github/forks/boradesanket13/Diabetes-prediction-webapp?color=yellow"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp//issues"><img src="https://img.shields.io/github/issues/boradesanket13/Diabetes-prediction-webapp?color=brightgreen"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp//issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/boradesanket13/Diabetes-prediction-webapp?color=0059b3"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp//pulls"><img src="https://img.shields.io/github/issues-pr/boradesanket13/Diabetes-prediction-webapp?color=yellow"></a>
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp//pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/boradesanket13/Diabetes-prediction-webapp?color=brightgreen"></a> 
 </div>
 
 
@@ -77,9 +57,9 @@ Diabetes-prediction-webapp?color=brightgreen"></a>
 
 Contributions are always welcome!
 
-See [CONTRIBUTING.md](https://github.com/boradesanket13/Swastha/blob/main/contributing.md) for ways to get started.
+See [CONTRIBUTING.md](https://github.com/boradesanket13/Diabetes-prediction-webapp/blob/main/contributing.md) for ways to get started.
 
-Please adhere to this project's [CODE-OF-CONDUCT.md](https://github.com/boradesanket13/Swastha/blob/main/code-of-conduct.md).
+Please adhere to this project's [CODE-OF-CONDUCT.md](https://github.com/boradesanket13/Diabetes-prediction-webapp/blob/main/code-of-conduct.md).
 
 ## Contributors 🤝
 
@@ -88,8 +68,8 @@ Please adhere to this project's [CODE-OF-CONDUCT.md](https://github.com/boradesa
 <table align="center">
 <tr>
 <td>
-<a href="https://github.com/boradesanket13/Swastha/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=boradesanket13/Swastha" /> 
+<a href="https://github.com/boradesanket13/Diabetes-prediction-webapp/graphs/contributors" align="center">
+  <img src="https://contrib.rocks/image?repo=boradesanket13/Diabetes-prediction-webapp" /> 
 </a>
 </td>
 </tr>
